@@ -29,12 +29,6 @@
     line-height: 20px;
   }
 
-  .span-accent{
+  .nav__link:hover {
     color: #2f80ed;
-    font-style: italic;
-    font-family: "Noto Serif";
-    font-style: italic;
-    font-weight: normal;
-    font-size: 58px;
-    line-height: 72px;
-  }
+}
